@@ -1,7 +1,7 @@
 # collaborative-filtering-recommendation
 collaborative filtering recommendation description and implementaion
 
-------基于用户的协同过滤推荐算法-------
+# 基于用户的协同过滤推荐算法
 	
 基本思路：
     选取某个用户A的具有相似品味的邻居用户集合, 
@@ -25,6 +25,6 @@ collaborative filtering recommendation description and implementaion
 Tips:
 1.数据集：movieLens，从训练集中得出相似用户，去预测测试集中的评分，再与实际评分作对比
 2.环境：
-	（1）语言：python 3.8, 用到的库:【几乎没用到什么库】;
-	（2）IDE：pycharm;
-	（3）系统：Windows 7;
+	#（1）语言：python 3.8, 用到的库:【几乎没用到什么库】;
+	#（2）IDE：pycharm;
+	#（3）系统：Windows 7;
