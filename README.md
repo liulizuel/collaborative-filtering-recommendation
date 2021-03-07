@@ -1,7 +1,7 @@
 # collaborative-filtering-recommendation
 collaborative filtering recommendation description and implementaion
 
-# 基于用户的协同过滤推荐算法
+### 基于用户的协同过滤推荐算法
 	
 基本思路：
     选取某个用户A的具有相似品味的邻居用户集合, 
